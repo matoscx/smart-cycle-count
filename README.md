@@ -24,8 +24,6 @@ Follow these steps to get the project running locally.
 * npm or pnpm
 
 ### 1. Backend Setup
-
-```bash
 # Navigate to backend directory
 cd backend
 
@@ -39,7 +37,7 @@ npx prisma db seed
 # Start backend server
 npm run start:dev
 
-### 1. Frontend Setup
+### 2. Frontend Setup
 # Open a new terminal and navigate to frontend directory
 cd frontend
 
@@ -48,3 +46,7 @@ npm install
 
 # Start frontend development server
 npm run dev
+
+
+
+
