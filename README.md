@@ -1,6 +1,6 @@
 # Smart Cycle Count
 
-A web application designed to streamline inventory cycle counts. Built with a Next.js frontend and a NestJS backend, it features inventory heatmaps, automated scoring for high-risk items, audit planning, and a mobile-friendly counting flow.
+A web application inventory cycle counts. Built with a Next.js frontend and a NestJS backend, it features inventory heatmaps, automated scoring for high-risk items, audit planning, and a mobile-friendly counting flow.
 
 ---
 
