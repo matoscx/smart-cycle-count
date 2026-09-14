@@ -27,24 +27,24 @@ Follow these steps to get the project running locally.
 # Navigate to backend directory
 cd backend
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Run database migrations & seed initial data
+Run database migrations & seed initial data
 npx prisma migrate dev
 npx prisma db seed
 
-# Start backend server
+Start backend server
 npm run start:dev
 
 ### 2. Frontend Setup
-# Open a new terminal and navigate to frontend directory
+Open a new terminal and navigate to frontend directory
 cd frontend
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start frontend development server
+Start frontend development server
 npm run dev
 
 
